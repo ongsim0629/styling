@@ -1,0 +1,20 @@
+.icon-logo {
+  width: 240px;
+  height: 40px;
+}
+
+.icon-header {
+  width: 24px;
+  height: 24px;
+}
+
+.icon-nav {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

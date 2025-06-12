@@ -1,0 +1,11 @@
+.accordion {
+  display: inline-block;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.accordion-text {
+  flex-grow: 1;
+  margin-right: var(--arrow-margin, 10px);
+}

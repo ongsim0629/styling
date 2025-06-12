@@ -1,7 +1,8 @@
 import React from 'react';
+import EquipmentPage from './components/pages/EquipmentPage';
 
 function App() {
-  return <div>hi</div>;
+  return <EquipmentPage />;
 }
 
 export default App;
